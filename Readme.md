@@ -2,7 +2,6 @@
 
 **An intelligent, end-to-end Machine Learning platform for data-driven real estate investment decisions in India**
 
-[Live Demo](https://emipredictai.streamlit.app) • [Documentation](docs/) • [Report Issues](https://github.com/viraj-gavade/EMIPredict-AI/issues)
 
 ---
 
@@ -201,7 +200,7 @@ Real-Estate-Investment-Advisor/
 │
 ├── 📄 requirements.txt                    # Python dependencies
 ├── 📄 README.md                           # Project documentation
-└── 📄 Real_Estate_Investment_Advisor_Project_Report_Viraj_Gavade.docx
+└── 📄 Real_Estate_Investment_Advisor_Project_Report.docx
 ```
 
 ---
@@ -215,7 +214,7 @@ Real-Estate-Investment-Advisor/
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/viraj-gavade/EMIPredict-AI
+
 cd EMIPredict-AI
 ```
 
@@ -452,7 +451,6 @@ Contributions are welcome! Please follow these guidelines:
 
 1. **Fork the Repository**
    ```bash
-   git clone https://github.com/viraj-gavade/EMIPredict-AI
    ```
 
 2. **Create a Feature Branch**
@@ -511,17 +509,12 @@ Contributions are welcome! Please follow these guidelines:
 
 ## 👤 Author
 
-**Viraj Gavade**  
 *AI-ML Engineer*
 
 Passionate about building intelligent systems that solve real-world problems. Specializing in Machine Learning, MLOps, and end-to-end AI solution development.
 
 ### 🔗 Connect With Me
 
-- **GitHub**: [@viraj-gavade](https://github.com/viraj-gavade)
-- **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/viraj-gavade)
-- **Email**: virajgavade@example.com
-- **Portfolio**: [virajgavade.dev](https://virajgavade.dev)
 
 ### 🎓 Background
 
@@ -552,8 +545,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you encounter any issues or have questions:
 
 1. Check the [documentation](docs/)
-2. Search [existing issues](https://github.com/viraj-gavade/EMIPredict-AI/issues)
-3. Create a [new issue](https://github.com/viraj-gavade/EMIPredict-AI/issues/new)
 4. Contact the author directly
 
 ---
@@ -562,7 +553,7 @@ If you encounter any issues or have questions:
 
 **⭐ If you find this project helpful, please consider giving it a star! ⭐**
 
-Made with ❤️ by Viraj Gavade
 
-</div>#   R e a l - E s t a t e - I n v e s t m e n t - A d v i s o r  
+</div>#   R e a l - E s t a t e - I n v e s t m e n t - A d v i s o r 
+ 
  
